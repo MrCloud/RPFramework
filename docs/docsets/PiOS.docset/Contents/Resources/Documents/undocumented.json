@@ -1,0 +1,705 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationAppExtensionsService.swift",
+      "line": 12,
+      "symbol": "PiOSApplicationAppExtensionsService",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationAppExtensionsService.swift",
+      "line": 12,
+      "symbol": "PiOSApplicationAppExtensionsService",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationAppExtensionsService.swift",
+      "line": 13,
+      "symbol": "PiOSApplicationAppExtensionsService.application(_:shouldAllowExtensionPointIdentifier:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationAppExtensionsService.swift",
+      "line": 13,
+      "symbol": "PiOSApplicationAppExtensionsService.application(_:shouldAllowExtensionPointIdentifier:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationBackgroundFetchService.swift",
+      "line": 12,
+      "symbol": "PiOSApplicationBackgroundFetchService",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationBackgroundFetchService.swift",
+      "line": 12,
+      "symbol": "PiOSApplicationBackgroundFetchService",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationBackgroundFetchService.swift",
+      "line": 13,
+      "symbol": "PiOSApplicationBackgroundFetchService.application(_:performFetchWithCompletionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationBackgroundFetchService.swift",
+      "line": 13,
+      "symbol": "PiOSApplicationBackgroundFetchService.application(_:performFetchWithCompletionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationBackgroundFetchService.swift",
+      "line": 17,
+      "symbol": "PiOSApplicationBackgroundFetchService.application(_:handleEventsForBackgroundURLSession:completionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationBackgroundFetchService.swift",
+      "line": 17,
+      "symbol": "PiOSApplicationBackgroundFetchService.application(_:handleEventsForBackgroundURLSession:completionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationDelegate.swift",
+      "line": 12,
+      "symbol": "PiOSApplicationDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationDelegate.swift",
+      "line": 12,
+      "symbol": "PiOSApplicationDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationHealthKitService.swift",
+      "line": 12,
+      "symbol": "PiOSApplicationHealthKitService",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationHealthKitService.swift",
+      "line": 12,
+      "symbol": "PiOSApplicationHealthKitService",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationHealthKitService.swift",
+      "line": 13,
+      "symbol": "PiOSApplicationHealthKitService.applicationShouldRequestHealthAuthorization(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationHealthKitService.swift",
+      "line": 13,
+      "symbol": "PiOSApplicationHealthKitService.applicationShouldRequestHealthAuthorization(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationInterfaceGeometryService.swift",
+      "line": 12,
+      "symbol": "PiOSApplicationInterfaceGeometryService",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationInterfaceGeometryService.swift",
+      "line": 12,
+      "symbol": "PiOSApplicationInterfaceGeometryService",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationInterfaceGeometryService.swift",
+      "line": 13,
+      "symbol": "PiOSApplicationInterfaceGeometryService.application(_:supportedInterfaceOrientationsFor:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationInterfaceGeometryService.swift",
+      "line": 13,
+      "symbol": "PiOSApplicationInterfaceGeometryService.application(_:supportedInterfaceOrientationsFor:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationInterfaceGeometryService.swift",
+      "line": 17,
+      "symbol": "PiOSApplicationInterfaceGeometryService.application(_:willChangeStatusBarOrientation:duration:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationInterfaceGeometryService.swift",
+      "line": 17,
+      "symbol": "PiOSApplicationInterfaceGeometryService.application(_:willChangeStatusBarOrientation:duration:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationInterfaceGeometryService.swift",
+      "line": 21,
+      "symbol": "PiOSApplicationInterfaceGeometryService.application(_:didChangeStatusBarOrientation:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationInterfaceGeometryService.swift",
+      "line": 21,
+      "symbol": "PiOSApplicationInterfaceGeometryService.application(_:didChangeStatusBarOrientation:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationInterfaceGeometryService.swift",
+      "line": 25,
+      "symbol": "PiOSApplicationInterfaceGeometryService.application(_:willChangeStatusBarFrame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationInterfaceGeometryService.swift",
+      "line": 25,
+      "symbol": "PiOSApplicationInterfaceGeometryService.application(_:willChangeStatusBarFrame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationInterfaceGeometryService.swift",
+      "line": 29,
+      "symbol": "PiOSApplicationInterfaceGeometryService.application(_:didChangeStatusBarFrame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationInterfaceGeometryService.swift",
+      "line": 29,
+      "symbol": "PiOSApplicationInterfaceGeometryService.application(_:didChangeStatusBarFrame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationLifeCycleService.swift",
+      "line": 12,
+      "symbol": "PiOSApplicationLifeCycleService",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationLifeCycleService.swift",
+      "line": 12,
+      "symbol": "PiOSApplicationLifeCycleService",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationLifeCycleService.swift",
+      "line": 14,
+      "symbol": "PiOSApplicationLifeCycleService.application(_:willFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationLifeCycleService.swift",
+      "line": 14,
+      "symbol": "PiOSApplicationLifeCycleService.application(_:willFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationLifeCycleService.swift",
+      "line": 18,
+      "symbol": "PiOSApplicationLifeCycleService.application(_:didFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationLifeCycleService.swift",
+      "line": 18,
+      "symbol": "PiOSApplicationLifeCycleService.application(_:didFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationLifeCycleService.swift",
+      "line": 22,
+      "symbol": "PiOSApplicationLifeCycleService.applicationDidBecomeActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationLifeCycleService.swift",
+      "line": 22,
+      "symbol": "PiOSApplicationLifeCycleService.applicationDidBecomeActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationLifeCycleService.swift",
+      "line": 26,
+      "symbol": "PiOSApplicationLifeCycleService.applicationWillResignActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationLifeCycleService.swift",
+      "line": 26,
+      "symbol": "PiOSApplicationLifeCycleService.applicationWillResignActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationLifeCycleService.swift",
+      "line": 30,
+      "symbol": "PiOSApplicationLifeCycleService.applicationDidEnterBackground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationLifeCycleService.swift",
+      "line": 30,
+      "symbol": "PiOSApplicationLifeCycleService.applicationDidEnterBackground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationLifeCycleService.swift",
+      "line": 34,
+      "symbol": "PiOSApplicationLifeCycleService.applicationWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationLifeCycleService.swift",
+      "line": 34,
+      "symbol": "PiOSApplicationLifeCycleService.applicationWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationLifeCycleService.swift",
+      "line": 38,
+      "symbol": "PiOSApplicationLifeCycleService.applicationWillTerminate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationLifeCycleService.swift",
+      "line": 38,
+      "symbol": "PiOSApplicationLifeCycleService.applicationWillTerminate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationNotificationService.swift",
+      "line": null,
+      "symbol": "PiOSApplicationNotificationService",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationNotificationService.swift",
+      "line": null,
+      "symbol": "PiOSApplicationNotificationService",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationNotificationService.swift",
+      "line": 13,
+      "symbol": "PiOSApplicationNotificationService",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationNotificationService.swift",
+      "line": 13,
+      "symbol": "PiOSApplicationNotificationService",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationNotificationService.swift",
+      "line": 16,
+      "symbol": "PiOSApplicationNotificationService.application(_:didRegister:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationNotificationService.swift",
+      "line": 16,
+      "symbol": "PiOSApplicationNotificationService.application(_:didRegister:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationNotificationService.swift",
+      "line": 20,
+      "symbol": "PiOSApplicationNotificationService.application(_:didRegisterForRemoteNotificationsWithDeviceToken:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationNotificationService.swift",
+      "line": 20,
+      "symbol": "PiOSApplicationNotificationService.application(_:didRegisterForRemoteNotificationsWithDeviceToken:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationNotificationService.swift",
+      "line": 24,
+      "symbol": "PiOSApplicationNotificationService.application(_:didFailToRegisterForRemoteNotificationsWithError:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationNotificationService.swift",
+      "line": 24,
+      "symbol": "PiOSApplicationNotificationService.application(_:didFailToRegisterForRemoteNotificationsWithError:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationNotificationService.swift",
+      "line": 28,
+      "symbol": "PiOSApplicationNotificationService.application(_:didReceive:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationNotificationService.swift",
+      "line": 28,
+      "symbol": "PiOSApplicationNotificationService.application(_:didReceive:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationNotificationService.swift",
+      "line": 32,
+      "symbol": "PiOSApplicationNotificationService.application(_:didReceiveRemoteNotification:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationNotificationService.swift",
+      "line": 32,
+      "symbol": "PiOSApplicationNotificationService.application(_:didReceiveRemoteNotification:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationNotificationService.swift",
+      "line": 36,
+      "symbol": "PiOSApplicationNotificationService.application(_:handleActionWithIdentifier:forRemoteNotification:completionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationNotificationService.swift",
+      "line": 36,
+      "symbol": "PiOSApplicationNotificationService.application(_:handleActionWithIdentifier:forRemoteNotification:completionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationNotificationService.swift",
+      "line": 40,
+      "symbol": "PiOSApplicationNotificationService.application(_:handleActionWithIdentifier:forRemoteNotification:withResponseInfo:completionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationNotificationService.swift",
+      "line": 40,
+      "symbol": "PiOSApplicationNotificationService.application(_:handleActionWithIdentifier:forRemoteNotification:withResponseInfo:completionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationNotificationService.swift",
+      "line": 44,
+      "symbol": "PiOSApplicationNotificationService.application(_:handleActionWithIdentifier:for:withResponseInfo:completionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationNotificationService.swift",
+      "line": 44,
+      "symbol": "PiOSApplicationNotificationService.application(_:handleActionWithIdentifier:for:withResponseInfo:completionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationNotificationService.swift",
+      "line": 52,
+      "symbol": "PiOSApplicationNotificationService.userNotificationCenter(_:willPresent:withCompletionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationNotificationService.swift",
+      "line": 52,
+      "symbol": "PiOSApplicationNotificationService.userNotificationCenter(_:willPresent:withCompletionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationNotificationService.swift",
+      "line": 56,
+      "symbol": "PiOSApplicationNotificationService.userNotificationCenter(_:didReceive:withCompletionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationNotificationService.swift",
+      "line": 56,
+      "symbol": "PiOSApplicationNotificationService.userNotificationCenter(_:didReceive:withCompletionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationStateRestorationService.swift",
+      "line": 12,
+      "symbol": "PiOSApplicationStateRestorationService",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationStateRestorationService.swift",
+      "line": 12,
+      "symbol": "PiOSApplicationStateRestorationService",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationStateRestorationService.swift",
+      "line": 14,
+      "symbol": "PiOSApplicationStateRestorationService.application(_:shouldSaveApplicationState:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationStateRestorationService.swift",
+      "line": 14,
+      "symbol": "PiOSApplicationStateRestorationService.application(_:shouldSaveApplicationState:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationStateRestorationService.swift",
+      "line": 18,
+      "symbol": "PiOSApplicationStateRestorationService.application(_:shouldRestoreApplicationState:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationStateRestorationService.swift",
+      "line": 18,
+      "symbol": "PiOSApplicationStateRestorationService.application(_:shouldRestoreApplicationState:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationStateRestorationService.swift",
+      "line": 22,
+      "symbol": "PiOSApplicationStateRestorationService.application(_:viewControllerWithRestorationIdentifierPath:coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationStateRestorationService.swift",
+      "line": 22,
+      "symbol": "PiOSApplicationStateRestorationService.application(_:viewControllerWithRestorationIdentifierPath:coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationStateRestorationService.swift",
+      "line": 27,
+      "symbol": "PiOSApplicationStateRestorationService.application(_:willEncodeRestorableStateWith:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationStateRestorationService.swift",
+      "line": 27,
+      "symbol": "PiOSApplicationStateRestorationService.application(_:willEncodeRestorableStateWith:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationStateRestorationService.swift",
+      "line": 31,
+      "symbol": "PiOSApplicationStateRestorationService.application(_:didDecodeRestorableStateWith:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationStateRestorationService.swift",
+      "line": 31,
+      "symbol": "PiOSApplicationStateRestorationService.application(_:didDecodeRestorableStateWith:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationURLOpenerService.swift",
+      "line": 12,
+      "symbol": "PiOSApplicationURLOpenerService",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationURLOpenerService.swift",
+      "line": 12,
+      "symbol": "PiOSApplicationURLOpenerService",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationURLOpenerService.swift",
+      "line": 13,
+      "symbol": "PiOSApplicationURLOpenerService.application(_:open:options:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationURLOpenerService.swift",
+      "line": 13,
+      "symbol": "PiOSApplicationURLOpenerService.application(_:open:options:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationUserActivityService.swift",
+      "line": 12,
+      "symbol": "PiOSApplicationUserActivityService",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationUserActivityService.swift",
+      "line": 12,
+      "symbol": "PiOSApplicationUserActivityService",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationUserActivityService.swift",
+      "line": 14,
+      "symbol": "PiOSApplicationUserActivityService.application(_:willContinueUserActivityWithType:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationUserActivityService.swift",
+      "line": 14,
+      "symbol": "PiOSApplicationUserActivityService.application(_:willContinueUserActivityWithType:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationUserActivityService.swift",
+      "line": 18,
+      "symbol": "PiOSApplicationUserActivityService.application(_:continue:restorationHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationUserActivityService.swift",
+      "line": 18,
+      "symbol": "PiOSApplicationUserActivityService.application(_:continue:restorationHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationUserActivityService.swift",
+      "line": 22,
+      "symbol": "PiOSApplicationUserActivityService.application(_:didUpdate:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationUserActivityService.swift",
+      "line": 22,
+      "symbol": "PiOSApplicationUserActivityService.application(_:didUpdate:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationUserActivityService.swift",
+      "line": 26,
+      "symbol": "PiOSApplicationUserActivityService.application(_:didFailToContinueUserActivityWithType:error:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationUserActivityService.swift",
+      "line": 26,
+      "symbol": "PiOSApplicationUserActivityService.application(_:didFailToContinueUserActivityWithType:error:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationUserActivityService.swift",
+      "line": 30,
+      "symbol": "PiOSApplicationUserActivityService.application(_:performActionFor:completionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationUserActivityService.swift",
+      "line": 30,
+      "symbol": "PiOSApplicationUserActivityService.application(_:performActionFor:completionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationWatchKitExtensionService.swift",
+      "line": 12,
+      "symbol": "PiOSApplicationWatchKitExtensionService",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationWatchKitExtensionService.swift",
+      "line": 12,
+      "symbol": "PiOSApplicationWatchKitExtensionService",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationWatchKitExtensionService.swift",
+      "line": 13,
+      "symbol": "PiOSApplicationWatchKitExtensionService.application(_:handleWatchKitExtensionRequest:reply:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/pods/PiOS/PiOS/Classes/Core/AppDelegate/PiOSApplicationWatchKitExtensionService.swift",
+      "line": 13,
+      "symbol": "PiOSApplicationWatchKitExtensionService.application(_:handleWatchKitExtensionRequest:reply:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/fpetit/Desktop/pods/PiOS"
+}

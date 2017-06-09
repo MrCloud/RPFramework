@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>RPFramework  Reference</title>
+    <link rel="stylesheet" type="text/css" href="css/jazzy.css" />
+    <link rel="stylesheet" type="text/css" href="css/highlight.css" />
+    <meta charset="utf-8">
+    <script src="js/jquery.min.js" defer></script>
+    <script src="js/jazzy.js" defer></script>
+    
+    <script src="js/lunr.min.js" defer></script>
+    <script src="js/typeahead.jquery.js" defer></script>
+    <script src="js/jazzy.search.js" defer></script>
+  </head>
+  <body>
+
+
+    <a title="RPFramework  Reference"></a>
+
+    <header class="header">
+      <p class="header-col header-col--primary">
+        <a class="header-link" href="index.html">
+          RPFramework Docs
+        </a>
+         (24% documented)
+      </p>
+    
+      <p class="header-col--secondary">
+        <form role="search" action="search.json">
+          <input type="text" placeholder="Search documentation" data-typeahead>
+        </form>
+      </p>
+    
+        <p class="header-col header-col--secondary">
+          <a class="header-link" href="https://github.com/RedP4nda/RPFramework">
+            <img class="header-icon" src="img/gh.png"/>
+            View on GitHub
+          </a>
+        </p>
+    
+    </header>
+
+    <p class="breadcrumbs">
+      <a class="breadcrumb" href="index.html">RPFramework Reference</a>
+      <img class="carat" src="img/carat.png" />
+      RPFramework  Reference
+    </p>
+
+    <div class="content-wrapper">
+      <nav class="navigation">
+        <ul class="nav-groups">
+          <li class="nav-group-name">
+            <a class="nav-group-name-link" href="Classes.html">Classes</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Classes/RPApplicationAppExtensionsService.html">RPApplicationAppExtensionsService</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Classes/RPApplicationBackgroundFetchService.html">RPApplicationBackgroundFetchService</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Classes.html#/s:C11RPFramework21RPApplicationDelegate">RPApplicationDelegate</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Classes/RPApplicationHealthKitService.html">RPApplicationHealthKitService</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Classes/RPApplicationInterfaceGeometryService.html">RPApplicationInterfaceGeometryService</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Classes/RPApplicationLifeCycleService.html">RPApplicationLifeCycleService</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Classes/RPApplicationNotificationService.html">RPApplicationNotificationService</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Classes/RPApplicationStateRestorationService.html">RPApplicationStateRestorationService</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Classes/RPApplicationURLOpenerService.html">RPApplicationURLOpenerService</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Classes/RPApplicationUserActivityService.html">RPApplicationUserActivityService</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="Classes/RPApplicationWatchKitExtensionService.html">RPApplicationWatchKitExtensionService</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <article class="main-content">
+
+        <section class="section">
+          <div class="section-content">
+            
+            <h1 id='rpframework' class='heading'>RPFramework</h1>
+
+<p><a href="https://travis-ci.org/RedP4nda/RPFramework"><img src="https://travis-ci.org/RedP4nda/RPFramework.svg?branch=master" alt="Build Status"></a>
+<a href="http://twitter.com/Florian_MrCloud"><img src="https://img.shields.io/badge/twitter-@Florian_MrCloud-blue.svg?style=flat" alt="Twitter"></a></p>
+
+<p>RPFramework is a set of utility classes and functions that aim to reduce boilerplate code and provide a cleaner architecture to your application</p>
+
+<ul>
+<li><a href="#features">Features</a></li>
+<li><a href="#the-basics">The Basics</a></li>
+<li><a href="#to-do">To Do</a></li>
+<li><a href="#contributing">Contributing</a></li>
+<li><a href="#installation">Installation</a></li>
+</ul>
+<h1 id='features' class='heading'>Features:</h1>
+
+<ul>
+<li>Service-oriented Application Delegate (based on <a href="https://github.com/fmo91/PluggableApplicationDelegate/">PluggableApplicationDelegate</a>)</li>
+</ul>
+<h1 id='the-basics' class='heading'>The Basics</h1>
+<h3 id='service-oriented-application-delegate' class='heading'>Service-oriented Application Delegate</h3>
+
+<p>A service-oriented Application Delegate architecture will</p>
+
+<p>Here is what your <code>AppDelegate</code> will look like:</p>
+<pre class="highlight swift"><code><span class="kd">import</span> <span class="kt">UIKit</span>
+<span class="kd">import</span> <span class="kt">RPFramework</span>
+<span class="kd">import</span> <span class="kt">PluggableApplicationDelegate</span>
+
+<span class="kd">@UIApplicationMain</span>
+<span class="kd">class</span> <span class="kt">AppDelegate</span><span class="p">:</span> <span class="kt">RPApplicationDelegate</span> <span class="p">{</span>
+
+    <span class="k">override</span> <span class="k">var</span> <span class="nv">services</span><span class="p">:</span> <span class="p">[</span><span class="kt">ApplicationService</span><span class="p">]</span> <span class="p">{</span>
+        <span class="k">return</span> <span class="p">[</span>
+            <span class="kt">CrashlyticsApplicationService</span><span class="p">(),</span>
+            <span class="kt">OtherApplicationService</span><span class="p">()</span>
+        <span class="p">]</span>
+    <span class="p">}</span>    
+<span class="p">}</span>
+</code></pre>
+
+<p>Each ApplicationService you define will receive <code>UIApplicationDelegate</code> method calls, you define an <code>ApplicationService</code> this way (for example if you want to integrate the Fabric sdk into your app):</p>
+<pre class="highlight swift"><code><span class="kd">import</span> <span class="kt">Foundation</span>
+<span class="kd">import</span> <span class="kt">PluggableApplicationDelegate</span>
+<span class="kd">import</span> <span class="kt">Fabric</span>
+<span class="kd">import</span> <span class="kt">Crashlytics</span>
+
+<span class="kd">final</span> <span class="kd">class</span> <span class="kt">CrashlyticsApplicationService</span><span class="p">:</span> <span class="kt">NSObject</span><span class="p">,</span> <span class="kt">ApplicationService</span> <span class="p">{</span>
+    <span class="kd">func</span> <span class="nf">application</span><span class="p">(</span><span class="n">_</span> <span class="nv">application</span><span class="p">:</span> <span class="kt">UIApplication</span><span class="p">,</span> <span class="n">didFinishLaunchingWithOptions</span> <span class="nv">launchOptions</span><span class="p">:</span> <span class="p">[</span><span class="kt">UIApplicationLaunchOptionsKey</span><span class="p">:</span> <span class="kt">Any</span><span class="p">]?)</span> <span class="o">-&gt;</span> <span class="kt">Bool</span> <span class="p">{</span>
+        <span class="kt">Fabric</span><span class="o">.</span><span class="nf">with</span><span class="p">([</span><span class="kt">Crashlytics</span><span class="o">.</span><span class="k">self</span><span class="p">])</span>
+        <span class="k">return</span> <span class="kc">true</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</code></pre>
+
+<p>The RPFramework Pod provides some basic <code>ApplicationService</code>s implementations that you can use out of the box or subclass in order to override the provided implementation, check the provided <code>ApplicationService</code>s <a href="https://github.com/RedP4nda/RPFramework/tree/master/RPFramework/Classes/Core/AppDelegate/">here</a></p>
+<h1 id='to-do' class='heading'>To Do</h1>
+<h2 id='' class='heading'>-</h2>
+<h1 id='installation' class='heading'>Installation</h1>
+<h3 id='cocoapods' class='heading'>Cocoapods</h3>
+
+<p>RPFramework can be added to your project using <a href="http://cocoapods.org">CocoaPods</a> by adding the following lines to your <code>Podfile</code>:</p>
+<pre class="highlight ruby"><code><span class="n">source</span> <span class="s1">'https://github.com/RedP4nda/Specs'</span>
+
+<span class="n">pod</span> <span class="s1">'RPFramework'</span><span class="p">,</span> <span class="s1">'~&gt; 0.9'</span>
+</code></pre>
+<h1 id='contributing' class='heading'>Contributing</h1>
+
+<p>Contributions are very welcome 👍😃.</p>
+
+<p>Before submitting any pull request, please ensure you have run the included tests (if any) and they have passed. If you are including new functionality, please write test cases for it as well.</p>
+<h2 id='contributors' class='heading'>Contributors</h2>
+
+<p><a href="https://github.com/MrCloud"><img src="https://avatars2.githubusercontent.com/u/486140?s=100" alt="MrCloud"></a></p>
+
+          </div>
+        </section>
+
+
+      </article>
+    </div>
+    <section class="footer">
+      <p>&copy; 2017 <a class="link" href="https://github.com/RedP4nda" target="_blank" rel="external">MrCloud</a>. All rights reserved. (Last updated: 2017-06-13)</p>
+      <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.8.2</a>, a <a class="link" href="http://realm.io" target="_blank" rel="external">Realm</a> project.</p>
+    </section>
+  </body>
+</div>
+</html>

@@ -1,0 +1,21 @@
+PODS:
+  - PluggableApplicationDelegate (0.1.0)
+  - RPFramework (1.0):
+    - RPFramework/Core (= 1.0)
+  - RPFramework/Core (1.0):
+    - PluggableApplicationDelegate
+
+DEPENDENCIES:
+  - RPFramework (from `../`)
+
+EXTERNAL SOURCES:
+  RPFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PluggableApplicationDelegate: 7812265b4d618626394f42888ef7f7ccd645462f
+  RPFramework: 2faa7415d69823e15a847b391212bc632e05ce58
+
+PODFILE CHECKSUM: ee07ea324085d06eadc7be26032bb79046fb1d63
+
+COCOAPODS: 1.2.0

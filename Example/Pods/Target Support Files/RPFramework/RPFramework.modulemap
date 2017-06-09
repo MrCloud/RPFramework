@@ -1,0 +1,6 @@
+framework module RPFramework {
+  umbrella header "RPFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

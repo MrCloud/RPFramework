@@ -1,0 +1,35 @@
+{
+  "name": "RPFramework",
+  "version": "1.0",
+  "summary": "The RedPanda Framework.",
+  "description": "Hassle-free boilerplate and featureful framework for your iOS apps",
+  "homepage": "https://github.com/RedP4nda/RPFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MrCloud": "florianp37@me.com"
+  },
+  "source": {
+    "git": "https://github.com/RedP4nda/RPFramework.git",
+    "tag": "1.0"
+  },
+  "social_media_url": "https://twitter.com/Florian_MrCloud",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "RPFramework/Classes/Core/**/*",
+  "default_subspecs": "Core",
+  "subspecs": [
+    {
+      "name": "Core",
+      "source_files": "RPFramework/Classes/Core/**/*",
+      "dependencies": {
+        "PluggableApplicationDelegate": [
+
+        ]
+      }
+    }
+  ]
+}
