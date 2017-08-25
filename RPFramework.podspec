@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = 'RPFramework'
-s.version          = '0.9.1'
+s.version          = '0.9.2'
 s.summary          = 'The RedPanda Framework.'
 
 s.description      = <<-DESC
@@ -19,7 +19,7 @@ s.default_subspec = 'Core'
 
 s.subspec 'Core' do |a|
 a.source_files = 'RPFramework/Classes/Core/**/*'
-a.dependency 'PluggableApplicationDelegate', '0.2.1'
+a.dependency 'PluggableApplicationDelegate'
 end
 
 end

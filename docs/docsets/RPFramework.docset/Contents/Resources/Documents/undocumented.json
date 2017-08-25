@@ -2,532 +2,532 @@
   "warnings": [
     {
       "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationAppExtensionsService.swift",
-      "line": 14,
+      "line": 32,
       "symbol": "RPApplicationAppExtensionsService.application(_:shouldAllowExtensionPointIdentifier:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationAppExtensionsService.swift",
-      "line": 14,
+      "line": 32,
       "symbol": "RPApplicationAppExtensionsService.application(_:shouldAllowExtensionPointIdentifier:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationBackgroundFetchService.swift",
-      "line": 14,
+      "line": 32,
       "symbol": "RPApplicationBackgroundFetchService.application(_:performFetchWithCompletionHandler:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationBackgroundFetchService.swift",
-      "line": 14,
+      "line": 32,
       "symbol": "RPApplicationBackgroundFetchService.application(_:performFetchWithCompletionHandler:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationBackgroundFetchService.swift",
-      "line": 18,
+      "line": 36,
       "symbol": "RPApplicationBackgroundFetchService.application(_:handleEventsForBackgroundURLSession:completionHandler:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationBackgroundFetchService.swift",
-      "line": 18,
+      "line": 36,
       "symbol": "RPApplicationBackgroundFetchService.application(_:handleEventsForBackgroundURLSession:completionHandler:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationHealthKitService.swift",
-      "line": 14,
+      "line": 32,
       "symbol": "RPApplicationHealthKitService.applicationShouldRequestHealthAuthorization(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationHealthKitService.swift",
-      "line": 14,
+      "line": 32,
       "symbol": "RPApplicationHealthKitService.applicationShouldRequestHealthAuthorization(_:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationInterfaceGeometryService.swift",
-      "line": 14,
-      "symbol": "RPApplicationInterfaceGeometryService.application(_:supportedInterfaceOrientationsFor:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationInterfaceGeometryService.swift",
-      "line": 14,
-      "symbol": "RPApplicationInterfaceGeometryService.application(_:supportedInterfaceOrientationsFor:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationInterfaceGeometryService.swift",
-      "line": 18,
-      "symbol": "RPApplicationInterfaceGeometryService.application(_:willChangeStatusBarOrientation:duration:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationInterfaceGeometryService.swift",
-      "line": 18,
-      "symbol": "RPApplicationInterfaceGeometryService.application(_:willChangeStatusBarOrientation:duration:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationInterfaceGeometryService.swift",
-      "line": 22,
-      "symbol": "RPApplicationInterfaceGeometryService.application(_:didChangeStatusBarOrientation:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationInterfaceGeometryService.swift",
-      "line": 22,
-      "symbol": "RPApplicationInterfaceGeometryService.application(_:didChangeStatusBarOrientation:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationInterfaceGeometryService.swift",
-      "line": 26,
-      "symbol": "RPApplicationInterfaceGeometryService.application(_:willChangeStatusBarFrame:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationInterfaceGeometryService.swift",
-      "line": 26,
-      "symbol": "RPApplicationInterfaceGeometryService.application(_:willChangeStatusBarFrame:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationInterfaceGeometryService.swift",
-      "line": 30,
-      "symbol": "RPApplicationInterfaceGeometryService.application(_:didChangeStatusBarFrame:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationInterfaceGeometryService.swift",
-      "line": 30,
-      "symbol": "RPApplicationInterfaceGeometryService.application(_:didChangeStatusBarFrame:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationLifeCycleService.swift",
-      "line": 16,
-      "symbol": "RPApplicationLifeCycleService.application(_:willFinishLaunchingWithOptions:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationLifeCycleService.swift",
-      "line": 16,
-      "symbol": "RPApplicationLifeCycleService.application(_:willFinishLaunchingWithOptions:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationLifeCycleService.swift",
-      "line": 20,
-      "symbol": "RPApplicationLifeCycleService.application(_:didFinishLaunchingWithOptions:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationLifeCycleService.swift",
-      "line": 20,
-      "symbol": "RPApplicationLifeCycleService.application(_:didFinishLaunchingWithOptions:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationLifeCycleService.swift",
-      "line": 24,
-      "symbol": "RPApplicationLifeCycleService.applicationDidBecomeActive(_:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationLifeCycleService.swift",
-      "line": 24,
-      "symbol": "RPApplicationLifeCycleService.applicationDidBecomeActive(_:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationLifeCycleService.swift",
-      "line": 28,
-      "symbol": "RPApplicationLifeCycleService.applicationWillResignActive(_:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationLifeCycleService.swift",
-      "line": 28,
-      "symbol": "RPApplicationLifeCycleService.applicationWillResignActive(_:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationLifeCycleService.swift",
-      "line": 32,
-      "symbol": "RPApplicationLifeCycleService.applicationDidEnterBackground(_:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationLifeCycleService.swift",
-      "line": 32,
-      "symbol": "RPApplicationLifeCycleService.applicationDidEnterBackground(_:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationLifeCycleService.swift",
-      "line": 36,
-      "symbol": "RPApplicationLifeCycleService.applicationWillEnterForeground(_:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationLifeCycleService.swift",
-      "line": 36,
-      "symbol": "RPApplicationLifeCycleService.applicationWillEnterForeground(_:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationLifeCycleService.swift",
-      "line": 40,
-      "symbol": "RPApplicationLifeCycleService.applicationWillTerminate(_:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationLifeCycleService.swift",
-      "line": 40,
-      "symbol": "RPApplicationLifeCycleService.applicationWillTerminate(_:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
-      "line": 17,
-      "symbol": "RPApplicationNotificationService.application(_:didRegister:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
-      "line": 17,
-      "symbol": "RPApplicationNotificationService.application(_:didRegister:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
-      "line": 21,
-      "symbol": "RPApplicationNotificationService.application(_:didRegisterForRemoteNotificationsWithDeviceToken:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
-      "line": 21,
-      "symbol": "RPApplicationNotificationService.application(_:didRegisterForRemoteNotificationsWithDeviceToken:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
-      "line": 25,
-      "symbol": "RPApplicationNotificationService.application(_:didFailToRegisterForRemoteNotificationsWithError:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
-      "line": 25,
-      "symbol": "RPApplicationNotificationService.application(_:didFailToRegisterForRemoteNotificationsWithError:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
-      "line": 29,
-      "symbol": "RPApplicationNotificationService.application(_:didReceive:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
-      "line": 29,
-      "symbol": "RPApplicationNotificationService.application(_:didReceive:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
-      "line": 33,
-      "symbol": "RPApplicationNotificationService.application(_:didReceiveRemoteNotification:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
-      "line": 33,
-      "symbol": "RPApplicationNotificationService.application(_:didReceiveRemoteNotification:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
-      "line": 37,
-      "symbol": "RPApplicationNotificationService.application(_:handleActionWithIdentifier:forRemoteNotification:completionHandler:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
-      "line": 37,
-      "symbol": "RPApplicationNotificationService.application(_:handleActionWithIdentifier:forRemoteNotification:completionHandler:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
-      "line": 41,
-      "symbol": "RPApplicationNotificationService.application(_:handleActionWithIdentifier:forRemoteNotification:withResponseInfo:completionHandler:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
-      "line": 41,
-      "symbol": "RPApplicationNotificationService.application(_:handleActionWithIdentifier:forRemoteNotification:withResponseInfo:completionHandler:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
-      "line": 45,
-      "symbol": "RPApplicationNotificationService.application(_:handleActionWithIdentifier:for:withResponseInfo:completionHandler:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
-      "line": 45,
-      "symbol": "RPApplicationNotificationService.application(_:handleActionWithIdentifier:for:withResponseInfo:completionHandler:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
-      "line": 53,
-      "symbol": "RPApplicationNotificationService.userNotificationCenter(_:willPresent:withCompletionHandler:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
-      "line": 53,
-      "symbol": "RPApplicationNotificationService.userNotificationCenter(_:willPresent:withCompletionHandler:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
-      "line": 57,
-      "symbol": "RPApplicationNotificationService.userNotificationCenter(_:didReceive:withCompletionHandler:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
-      "line": 57,
-      "symbol": "RPApplicationNotificationService.userNotificationCenter(_:didReceive:withCompletionHandler:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationStateRestorationService.swift",
-      "line": 15,
-      "symbol": "RPApplicationStateRestorationService.application(_:shouldSaveApplicationState:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationStateRestorationService.swift",
-      "line": 15,
-      "symbol": "RPApplicationStateRestorationService.application(_:shouldSaveApplicationState:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationStateRestorationService.swift",
-      "line": 19,
-      "symbol": "RPApplicationStateRestorationService.application(_:shouldRestoreApplicationState:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationStateRestorationService.swift",
-      "line": 19,
-      "symbol": "RPApplicationStateRestorationService.application(_:shouldRestoreApplicationState:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationStateRestorationService.swift",
-      "line": 23,
-      "symbol": "RPApplicationStateRestorationService.application(_:viewControllerWithRestorationIdentifierPath:coder:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationStateRestorationService.swift",
-      "line": 23,
-      "symbol": "RPApplicationStateRestorationService.application(_:viewControllerWithRestorationIdentifierPath:coder:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationStateRestorationService.swift",
-      "line": 28,
-      "symbol": "RPApplicationStateRestorationService.application(_:willEncodeRestorableStateWith:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationStateRestorationService.swift",
-      "line": 28,
-      "symbol": "RPApplicationStateRestorationService.application(_:willEncodeRestorableStateWith:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationStateRestorationService.swift",
-      "line": 32,
-      "symbol": "RPApplicationStateRestorationService.application(_:didDecodeRestorableStateWith:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationStateRestorationService.swift",
-      "line": 32,
-      "symbol": "RPApplicationStateRestorationService.application(_:didDecodeRestorableStateWith:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationURLOpenerService.swift",
-      "line": 14,
-      "symbol": "RPApplicationURLOpenerService.application(_:open:options:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationURLOpenerService.swift",
-      "line": 14,
-      "symbol": "RPApplicationURLOpenerService.application(_:open:options:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationUserActivityService.swift",
-      "line": 15,
-      "symbol": "RPApplicationUserActivityService.application(_:willContinueUserActivityWithType:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationUserActivityService.swift",
-      "line": 15,
-      "symbol": "RPApplicationUserActivityService.application(_:willContinueUserActivityWithType:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationUserActivityService.swift",
-      "line": 19,
-      "symbol": "RPApplicationUserActivityService.application(_:continue:restorationHandler:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationUserActivityService.swift",
-      "line": 19,
-      "symbol": "RPApplicationUserActivityService.application(_:continue:restorationHandler:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationUserActivityService.swift",
-      "line": 23,
-      "symbol": "RPApplicationUserActivityService.application(_:didUpdate:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationUserActivityService.swift",
-      "line": 23,
-      "symbol": "RPApplicationUserActivityService.application(_:didUpdate:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationUserActivityService.swift",
-      "line": 27,
-      "symbol": "RPApplicationUserActivityService.application(_:didFailToContinueUserActivityWithType:error:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationUserActivityService.swift",
-      "line": 27,
-      "symbol": "RPApplicationUserActivityService.application(_:didFailToContinueUserActivityWithType:error:)",
-      "symbol_kind": "source.lang.swift.decl.function.method.instance",
-      "warning": "undocumented"
-    },
-    {
-      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationUserActivityService.swift",
       "line": 31,
+      "symbol": "RPApplicationInterfaceGeometryService.application(_:supportedInterfaceOrientationsFor:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationInterfaceGeometryService.swift",
+      "line": 31,
+      "symbol": "RPApplicationInterfaceGeometryService.application(_:supportedInterfaceOrientationsFor:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationInterfaceGeometryService.swift",
+      "line": 35,
+      "symbol": "RPApplicationInterfaceGeometryService.application(_:willChangeStatusBarOrientation:duration:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationInterfaceGeometryService.swift",
+      "line": 35,
+      "symbol": "RPApplicationInterfaceGeometryService.application(_:willChangeStatusBarOrientation:duration:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationInterfaceGeometryService.swift",
+      "line": 39,
+      "symbol": "RPApplicationInterfaceGeometryService.application(_:didChangeStatusBarOrientation:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationInterfaceGeometryService.swift",
+      "line": 39,
+      "symbol": "RPApplicationInterfaceGeometryService.application(_:didChangeStatusBarOrientation:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationInterfaceGeometryService.swift",
+      "line": 43,
+      "symbol": "RPApplicationInterfaceGeometryService.application(_:willChangeStatusBarFrame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationInterfaceGeometryService.swift",
+      "line": 43,
+      "symbol": "RPApplicationInterfaceGeometryService.application(_:willChangeStatusBarFrame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationInterfaceGeometryService.swift",
+      "line": 47,
+      "symbol": "RPApplicationInterfaceGeometryService.application(_:didChangeStatusBarFrame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationInterfaceGeometryService.swift",
+      "line": 47,
+      "symbol": "RPApplicationInterfaceGeometryService.application(_:didChangeStatusBarFrame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationLifeCycleService.swift",
+      "line": 34,
+      "symbol": "RPApplicationLifeCycleService.application(_:willFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationLifeCycleService.swift",
+      "line": 34,
+      "symbol": "RPApplicationLifeCycleService.application(_:willFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationLifeCycleService.swift",
+      "line": 38,
+      "symbol": "RPApplicationLifeCycleService.application(_:didFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationLifeCycleService.swift",
+      "line": 38,
+      "symbol": "RPApplicationLifeCycleService.application(_:didFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationLifeCycleService.swift",
+      "line": 42,
+      "symbol": "RPApplicationLifeCycleService.applicationDidBecomeActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationLifeCycleService.swift",
+      "line": 42,
+      "symbol": "RPApplicationLifeCycleService.applicationDidBecomeActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationLifeCycleService.swift",
+      "line": 46,
+      "symbol": "RPApplicationLifeCycleService.applicationWillResignActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationLifeCycleService.swift",
+      "line": 46,
+      "symbol": "RPApplicationLifeCycleService.applicationWillResignActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationLifeCycleService.swift",
+      "line": 50,
+      "symbol": "RPApplicationLifeCycleService.applicationDidEnterBackground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationLifeCycleService.swift",
+      "line": 50,
+      "symbol": "RPApplicationLifeCycleService.applicationDidEnterBackground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationLifeCycleService.swift",
+      "line": 54,
+      "symbol": "RPApplicationLifeCycleService.applicationWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationLifeCycleService.swift",
+      "line": 54,
+      "symbol": "RPApplicationLifeCycleService.applicationWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationLifeCycleService.swift",
+      "line": 58,
+      "symbol": "RPApplicationLifeCycleService.applicationWillTerminate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationLifeCycleService.swift",
+      "line": 58,
+      "symbol": "RPApplicationLifeCycleService.applicationWillTerminate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
+      "line": 35,
+      "symbol": "RPApplicationNotificationService.application(_:didRegister:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
+      "line": 35,
+      "symbol": "RPApplicationNotificationService.application(_:didRegister:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
+      "line": 39,
+      "symbol": "RPApplicationNotificationService.application(_:didRegisterForRemoteNotificationsWithDeviceToken:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
+      "line": 39,
+      "symbol": "RPApplicationNotificationService.application(_:didRegisterForRemoteNotificationsWithDeviceToken:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
+      "line": 43,
+      "symbol": "RPApplicationNotificationService.application(_:didFailToRegisterForRemoteNotificationsWithError:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
+      "line": 43,
+      "symbol": "RPApplicationNotificationService.application(_:didFailToRegisterForRemoteNotificationsWithError:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
+      "line": 47,
+      "symbol": "RPApplicationNotificationService.application(_:didReceive:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
+      "line": 47,
+      "symbol": "RPApplicationNotificationService.application(_:didReceive:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
+      "line": 51,
+      "symbol": "RPApplicationNotificationService.application(_:didReceiveRemoteNotification:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
+      "line": 51,
+      "symbol": "RPApplicationNotificationService.application(_:didReceiveRemoteNotification:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
+      "line": 55,
+      "symbol": "RPApplicationNotificationService.application(_:handleActionWithIdentifier:forRemoteNotification:completionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
+      "line": 55,
+      "symbol": "RPApplicationNotificationService.application(_:handleActionWithIdentifier:forRemoteNotification:completionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
+      "line": 59,
+      "symbol": "RPApplicationNotificationService.application(_:handleActionWithIdentifier:forRemoteNotification:withResponseInfo:completionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
+      "line": 59,
+      "symbol": "RPApplicationNotificationService.application(_:handleActionWithIdentifier:forRemoteNotification:withResponseInfo:completionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
+      "line": 63,
+      "symbol": "RPApplicationNotificationService.application(_:handleActionWithIdentifier:for:withResponseInfo:completionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
+      "line": 63,
+      "symbol": "RPApplicationNotificationService.application(_:handleActionWithIdentifier:for:withResponseInfo:completionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
+      "line": 71,
+      "symbol": "RPApplicationNotificationService.userNotificationCenter(_:willPresent:withCompletionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
+      "line": 71,
+      "symbol": "RPApplicationNotificationService.userNotificationCenter(_:willPresent:withCompletionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
+      "line": 75,
+      "symbol": "RPApplicationNotificationService.userNotificationCenter(_:didReceive:withCompletionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationNotificationService.swift",
+      "line": 75,
+      "symbol": "RPApplicationNotificationService.userNotificationCenter(_:didReceive:withCompletionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationStateRestorationService.swift",
+      "line": 33,
+      "symbol": "RPApplicationStateRestorationService.application(_:shouldSaveApplicationState:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationStateRestorationService.swift",
+      "line": 33,
+      "symbol": "RPApplicationStateRestorationService.application(_:shouldSaveApplicationState:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationStateRestorationService.swift",
+      "line": 37,
+      "symbol": "RPApplicationStateRestorationService.application(_:shouldRestoreApplicationState:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationStateRestorationService.swift",
+      "line": 37,
+      "symbol": "RPApplicationStateRestorationService.application(_:shouldRestoreApplicationState:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationStateRestorationService.swift",
+      "line": 41,
+      "symbol": "RPApplicationStateRestorationService.application(_:viewControllerWithRestorationIdentifierPath:coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationStateRestorationService.swift",
+      "line": 41,
+      "symbol": "RPApplicationStateRestorationService.application(_:viewControllerWithRestorationIdentifierPath:coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationStateRestorationService.swift",
+      "line": 46,
+      "symbol": "RPApplicationStateRestorationService.application(_:willEncodeRestorableStateWith:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationStateRestorationService.swift",
+      "line": 46,
+      "symbol": "RPApplicationStateRestorationService.application(_:willEncodeRestorableStateWith:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationStateRestorationService.swift",
+      "line": 50,
+      "symbol": "RPApplicationStateRestorationService.application(_:didDecodeRestorableStateWith:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationStateRestorationService.swift",
+      "line": 50,
+      "symbol": "RPApplicationStateRestorationService.application(_:didDecodeRestorableStateWith:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationURLOpenerService.swift",
+      "line": 32,
+      "symbol": "RPApplicationURLOpenerService.application(_:open:options:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationURLOpenerService.swift",
+      "line": 32,
+      "symbol": "RPApplicationURLOpenerService.application(_:open:options:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationUserActivityService.swift",
+      "line": 33,
+      "symbol": "RPApplicationUserActivityService.application(_:willContinueUserActivityWithType:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationUserActivityService.swift",
+      "line": 33,
+      "symbol": "RPApplicationUserActivityService.application(_:willContinueUserActivityWithType:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationUserActivityService.swift",
+      "line": 37,
+      "symbol": "RPApplicationUserActivityService.application(_:continue:restorationHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationUserActivityService.swift",
+      "line": 37,
+      "symbol": "RPApplicationUserActivityService.application(_:continue:restorationHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationUserActivityService.swift",
+      "line": 41,
+      "symbol": "RPApplicationUserActivityService.application(_:didUpdate:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationUserActivityService.swift",
+      "line": 41,
+      "symbol": "RPApplicationUserActivityService.application(_:didUpdate:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationUserActivityService.swift",
+      "line": 45,
+      "symbol": "RPApplicationUserActivityService.application(_:didFailToContinueUserActivityWithType:error:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationUserActivityService.swift",
+      "line": 45,
+      "symbol": "RPApplicationUserActivityService.application(_:didFailToContinueUserActivityWithType:error:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationUserActivityService.swift",
+      "line": 49,
       "symbol": "RPApplicationUserActivityService.application(_:performActionFor:completionHandler:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationUserActivityService.swift",
-      "line": 31,
+      "line": 49,
       "symbol": "RPApplicationUserActivityService.application(_:performActionFor:completionHandler:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationWatchKitExtensionService.swift",
-      "line": 14,
+      "line": 32,
       "symbol": "RPApplicationWatchKitExtensionService.application(_:handleWatchKitExtensionRequest:reply:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"
     },
     {
       "file": "/Users/fpetit/Desktop/RedPanda/Pods/RPFramework/RPFramework/Classes/Core/AppDelegate/RPApplicationWatchKitExtensionService.swift",
-      "line": 14,
+      "line": 32,
       "symbol": "RPApplicationWatchKitExtensionService.application(_:handleWatchKitExtensionRequest:reply:)",
       "symbol_kind": "source.lang.swift.decl.function.method.instance",
       "warning": "undocumented"

@@ -1,21 +1,29 @@
 PODS:
-  - PluggableApplicationDelegate (0.1.0)
-  - RPFramework (1.0):
-    - RPFramework/Core (= 1.0)
-  - RPFramework/Core (1.0):
+  - PluggableApplicationDelegate (0.2.1)
+  - RPFramework (0.9.1):
+    - RPFramework/Core (= 0.9.1)
+  - RPFramework/Core (0.9.1):
     - PluggableApplicationDelegate
 
 DEPENDENCIES:
+  - PluggableApplicationDelegate (from `https://github.com/RedP4nda/PluggableApplicationDelegate.git`)
   - RPFramework (from `../`)
 
 EXTERNAL SOURCES:
+  PluggableApplicationDelegate:
+    :git: https://github.com/RedP4nda/PluggableApplicationDelegate.git
   RPFramework:
     :path: "../"
 
-SPEC CHECKSUMS:
-  PluggableApplicationDelegate: 7812265b4d618626394f42888ef7f7ccd645462f
-  RPFramework: 2faa7415d69823e15a847b391212bc632e05ce58
+CHECKOUT OPTIONS:
+  PluggableApplicationDelegate:
+    :commit: fad984dc665402ba447bba0288027b0b757c011b
+    :git: https://github.com/RedP4nda/PluggableApplicationDelegate.git
 
-PODFILE CHECKSUM: ee07ea324085d06eadc7be26032bb79046fb1d63
+SPEC CHECKSUMS:
+  PluggableApplicationDelegate: 6f0ce2c1e0b39c98e64ce0f95e3858ce058e3ac3
+  RPFramework: 79e77b12a5c7ebbfc617a57462bb802bf3e10ae9
+
+PODFILE CHECKSUM: 6d612f9fff7b22fcfdb2c497c93d361db7514db3
 
 COCOAPODS: 1.2.0

@@ -6,6 +6,7 @@ use_frameworks!
 
 target 'RPFramework_Example' do
   pod 'RPFramework', :path => '../'
+  pod 'PluggableApplicationDelegate', :git => 'https://github.com/RedP4nda/PluggableApplicationDelegate.git'
 
   target 'RPFramework_Tests' do
     inherit! :search_paths

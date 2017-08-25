@@ -6,7 +6,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/PluggableApplicationDelegate.svg?style=flat)](http://cocoapods.org/pods/PluggableApplicationDelegate)
 
 ## Introduction
-`AppDelegate` is a traditional example of bad code. Lots of line codes that makes so much different things are put together in methods that are called within the application life cycle. But all of those concerns are over.
+`AppDelegate` is a traditional example of bad code. Lots of line of code that makes so much different things are put together in methods that are called within the application life cycle. But all of those concerns are over.
 Using `PluggableApplicationDelegate` you decouple AppDelegate from the services that you plug to it. Each `ApplicationService` has its own life cycle that is shared with `AppDelegate`. 
 
 ## At a glance
@@ -54,7 +54,7 @@ Yes. That's all. Simple.
 
 ## How does this work?
 
-You may want to read my Medium post about Pluggable App Delegate.
+You may want to read my [Medium post about Pluggable App Delegate](https://medium.com/ios-os-x-development/pluggableapplicationdelegate-e50b2c5d97dd#.sz50l4d0l).
 Basically, you do an inversion of control. Instead of let AppDelegate instantiate your dependencies, perform actions at every step of its life cycle, you create objects that share the AppDelegate life cycle and plug them into your AppDelegate.
 Those objects are observers of the AppDelegate. Your AppDelegate has the only responsibility of notify them about its life cycle events.
 
@@ -64,13 +64,15 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
+PluggableApplicationDelegate requires Swift 3.0 or above.
+
 ## Installation
 
 PluggableApplicationDelegate is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod "PluggableApplicationDelegate"
+pod 'PluggableApplicationDelegate'
 ```
 
 ## Author
